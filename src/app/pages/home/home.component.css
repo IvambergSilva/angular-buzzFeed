@@ -1,0 +1,7 @@
+.container-home {
+    display: grid;
+    height: 100vh;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+}
